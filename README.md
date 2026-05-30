@@ -83,7 +83,6 @@ We may be able to suggest small improvements or optimizations for your specific 
 * [Romania](https://ro.jobs-search.org)
 * [Sweden](https://se.jobs-search.org)
 * [Ukraine](https://uk.jobs-search.org)
-* [Russia](https://vipwork.ru)
 
 ## North America
 
